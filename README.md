@@ -1,4 +1,10 @@
-# Demucs Music Source Separation
+# Demucs Splitter for macOS
+
+Built on top of the open-source [Demucs](https://github.com/adefossez/demucs) project. Many thanks to Alexandre Défossez and all Demucs contributors for creating and maintaining the source separation engine.
+
+This fork adds a native macOS app with drag-and-drop audio import, configurable separation modes and output formats, live progress, and a dedicated output folder for every track.
+
+## Original Demucs documentation
 
 ![tests badge](https://github.com/facebookresearch/demucs/workflows/tests/badge.svg)
 ![linter badge](https://github.com/facebookresearch/demucs/workflows/linter/badge.svg)
