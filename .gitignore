@@ -1,8 +1,13 @@
 *.egg-info
 __pycache__
+.DS_Store
 Session.vim
+/.cache
+/audio_files
 /build
+/demucs_env
 /dist
+/Demucs Splitter.spec
 /lab
 /metadata
 /notebooks
@@ -15,3 +20,5 @@ Session.vim
 /misc
 /mdx
 .mypy_cache
+/ИНСТРУКЦИЯ_ПО_РАЗДЕЛЕНИЮ.md
+/ШПАРГАЛКА.md

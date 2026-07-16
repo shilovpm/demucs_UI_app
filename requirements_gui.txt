@@ -1,0 +1,4 @@
+# Native desktop interface and macOS packaging.
+PySide6>=6.11,<6.12
+PyInstaller>=6.21,<7
+soundfile>=0.13,<0.14
