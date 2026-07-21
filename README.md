@@ -6,7 +6,7 @@ Built on top of the open-source [Demucs](https://github.com/adefossez/demucs) pr
 
 **Compatibility:** Apple Silicon Macs with an M-series processor, including MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, and Apple Silicon Mac Pro. Intel-based Macs are not supported by this build.
 
-1. Download `Demucs-Splitter-macOS-arm64.dmg` from the [latest release](https://github.com/shelovesclock/demucs_UI_app/releases/latest).
+1. Download `Demucs-Splitter-macOS-arm64.dmg` from the [latest release](https://github.com/shilovpm/demucs_UI_app/releases/latest).
 2. Open the DMG and drag **Demucs Splitter** into the **Applications** folder.
 3. On the first launch, Control-click the app and choose **Open**, then confirm by clicking **Open**. This is required because the app is not signed with an Apple Developer ID or notarized.
 
